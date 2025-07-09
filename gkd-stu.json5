@@ -19,5 +19,6 @@ name:'小蕾丝'
 // num
 version:1,
 
-// 
+// 当前订阅中的分类
+categories:[{id:0,name:'开屏广告',enable:'true']
 ｝
